@@ -1,2 +1,0 @@
-C:\Users\JC\Desktop\College\C#\MyLabs\Lab3(Intro)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\JC\Desktop\College\C#\MyLabs\Lab3(Intro)\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
