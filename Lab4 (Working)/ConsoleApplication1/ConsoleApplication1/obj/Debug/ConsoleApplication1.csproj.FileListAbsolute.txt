@@ -1,0 +1,10 @@
+C:\Users\JC\Desktop\College\C#\MyLabs\Lab 4 (Working)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\JC\Desktop\College\C#\MyLabs\Lab 4 (Working)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\JC\Desktop\College\C#\MyLabs\Lab 4 (Working)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\JC\Desktop\College\C#\MyLabs\Lab 4 (Working)\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\JC\Desktop\College\C#\MyLabs\Lab 4 (Working)\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\JC\Desktop\College\C#\MyLabs\Lab4 (Working)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\JC\Desktop\College\C#\MyLabs\Lab4 (Working)\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\JC\Desktop\College\C#\MyLabs\Lab4 (Working)\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\JC\Desktop\College\C#\MyLabs\Lab4 (Working)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\JC\Desktop\College\C#\MyLabs\Lab4 (Working)\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
